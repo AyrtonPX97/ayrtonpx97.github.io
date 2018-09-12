@@ -1,0 +1,55 @@
+body{
+    background-image: url('gradient_bg.png');
+    background-size: 6%;
+    background-attachment: fixed;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+}
+
+#artigo{
+    padding: 10px;
+    border-width: 3px 0.03cm 0px;
+    border-color: black gray transparent;
+    border-style: solid dotted none ;
+    color: brown;
+}
+
+.minha-classe{
+    color: black;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10%;
+}
+
+h1{
+    color: red;
+    
+}
+
+header > h1{
+    color: darkred;
+    text-align: center;
+    
+}
+
+.VeD {
+    text-align: center;
+}
+
+#smileyface{
+    border-top: darkblue 2vmax solid;
+    border-left: blue 2.5vmin ridge;
+    border-right: blue 2.5vmin ridge;
+    color: brown;
+}
+
+footer{
+    text-align: center;
+    margin-left: 20%;
+
+}
+
+section > h3, h4, h5{
+    font-size: 20px;
+}
